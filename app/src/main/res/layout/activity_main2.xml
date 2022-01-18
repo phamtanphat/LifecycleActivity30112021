@@ -6,17 +6,17 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    tools:context=".MainActivity">
+    tools:context=".MainActivity2">
 
     <TextView
         android:textSize="50sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Main Screen" />
+        android:text="Main2 Screen" />
     <Button
         android:layout_marginTop="20dp"
-        android:text="Navigate Screen 2"
-        android:id="@+id/buttonNavigateScreen2"
+        android:text="Navigate Screen 3"
+        android:id="@+id/buttonNavigateScreen3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 

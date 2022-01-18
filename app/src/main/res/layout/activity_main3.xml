@@ -4,20 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
     android:gravity="center"
-    tools:context=".MainActivity">
+    android:orientation="vertical"
+    tools:context=".MainActivity3">
 
     <TextView
         android:textSize="50sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Main Screen" />
-    <Button
-        android:layout_marginTop="20dp"
-        android:text="Navigate Screen 2"
-        android:id="@+id/buttonNavigateScreen2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+        android:text="Main3 Screen" />
 
 </LinearLayout>
